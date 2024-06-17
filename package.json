@@ -1,14 +1,14 @@
 {
-  "name": "basic-site",
-  "version": "1.0.0",
-  "description": "",
+  "name": "basic-nodejs-site",
+  "version": "1.0.1",
+  "description": "A very basic informational site that contains 4 pages: index, about, contact-me and 404.",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Dr. Kato Samuel Namuene",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^3.1.3"
